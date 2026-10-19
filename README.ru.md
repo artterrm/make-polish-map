@@ -1,6 +1,6 @@
 
 ```markdown
-[English](README.md) | **Русский**
+[English version](README.md)
 
 # Библиотека Polish Map Python
 
